@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205322695223",
+    "project_id": "androidapp-7a91a",
+    "storage_bucket": "androidapp-7a91a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205322695223:android:deb4d44d7e07f55db105b2",
+        "android_client_info": {
+          "package_name": "com.example.genderrhisics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFKH36dGpWQ5CNwA3lA1z8wqOROVefXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
