@@ -1,4 +1,4 @@
-package com.example.genderrhisics.ui.theme
+package com.example.MyProjectInAndroid.ui.theme.data
 
 import androidx.compose.ui.graphics.Color
 

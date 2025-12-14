@@ -1,4 +1,4 @@
-package com.example.genderrhisics
+package com.example.MyProjectInAndroid
 
 import org.junit.Test
 

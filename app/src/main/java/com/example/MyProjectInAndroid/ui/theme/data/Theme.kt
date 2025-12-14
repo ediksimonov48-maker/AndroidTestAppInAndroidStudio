@@ -1,6 +1,5 @@
-package com.example.genderrhisics.ui.theme
+package com.example.MyProjectInAndroid.ui.theme.data
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
